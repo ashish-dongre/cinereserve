@@ -1,0 +1,14 @@
+package com.cinereserve.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class WaitlistRequest {
+    private Long userId;
+    private Long showId;
+    private Integer requestedSeats;
+}
