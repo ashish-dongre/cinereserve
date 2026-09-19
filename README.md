@@ -123,7 +123,7 @@ jwt.expiration=86400000
 ### Build & Run
 ```bash
 # Clone the repository
-git clone https://github.com/miashu07/cinereserve.git
+git clone https://github.com/ashish-dongre/cinereserve.git
 cd cinereserve
 
 # Build the project
